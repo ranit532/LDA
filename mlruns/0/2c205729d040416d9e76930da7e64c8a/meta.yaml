@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/2185206/LDA/mlruns/0/2c205729d040416d9e76930da7e64c8a/artifacts
+end_time: 1757053867003
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2c205729d040416d9e76930da7e64c8a
+run_name: angry-toad-672
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757053840461
+status: 3
+tags: []
+user_id: '2185206'

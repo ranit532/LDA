@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/2185206/LDA/mlruns/752492446101622278/88764010f5854f748f1900790bbb05b6/artifacts
+end_time: 1757054230255
+entry_point_name: ''
+experiment_id: '752492446101622278'
+lifecycle_stage: active
+run_id: 88764010f5854f748f1900790bbb05b6
+run_name: skittish-lamb-58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757054204742
+status: 3
+tags: []
+user_id: '2185206'

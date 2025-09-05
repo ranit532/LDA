@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/2185206/LDA/mlruns/0/fc19726846704f76995313578a3e994f/artifacts
+end_time: 1757053944210
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fc19726846704f76995313578a3e994f
+run_name: beautiful-foal-484
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757053919425
+status: 3
+tags: []
+user_id: '2185206'

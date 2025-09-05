@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/2185206/LDA/mlruns/0/models/m-49367b7c233846e09dea62edee843e51/artifacts
+creation_timestamp: 1757053463376
+experiment_id: '0'
+last_updated_timestamp: 1757053486917
+model_id: m-49367b7c233846e09dea62edee843e51
+model_type: null
+name: lda_model
+source_run_id: c6f45a5a395d4e07abe6fdce284ad2b6
+status: 2
+status_message: null
